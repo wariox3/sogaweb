@@ -4,23 +4,23 @@
                     <div class="wrapper">
                         <section class="cols">
                             <h3><span class="dropcap">A</span>Plafica<span>negocios</span></h3>
-                            <p class="pad_bot1">Herramientas con un enfoque de <a href="#" target="_blank">proyeccion</a> creadas para soportar las decisiones a futuro del negocio.</p>
+                            <p class="pad_bot1">Herramientas con un enfoque de <a href="#" target="_blank">proyeccion</a> creadas para soportar las decisiones a futuro de su negocio.</p>
                             <a href="#" class="link1">Leer mas</a>
                         </section>
                         <section class="cols pad_left1">
                             <h3><span class="dropcap">B</span>Crea<span>estrategias</span></h3>
-                            <p class="pad_bot1">This <a href="http://blog.templatemonster.com/2011/07/11/free-website-template-slider-typography/" target="_blank" rel="nofollow">Progress Template</a> goes with two packages – with PSD source files and without them.</p>
-                            <a href="#" class="link1">Read More</a>
+                            <p class="pad_bot1">No solo diseñamos <a href="#" target="_blank" rel="nofollow">Herramientas y utilidades</a> para satisfacer los procesos, estamos pensando siempre en hacerlo mas facil y rapido.</p>
+                            <a href="#" class="link1">Leer mas</a>
                         </section>
                         <section class="cols pad_left1">
                             <h3><span class="dropcap">C</span>Analisis<span>fuerte</span></h3>
-                            <p class="pad_bot1">PSD source files are available for free for registered members. The basic package is available for anyone.</p>
-                            <a href="#" class="link1">Read More</a>
+                            <p class="pad_bot1">Reportes, listas, excel, informes detallados de cada movimiento de su negocio.</p>
+                            <a href="#" class="link1">Leer mas</a>
                         </section>
                         <section class="cols pad_left1">
                             <h3><span class="dropcap">D</span>Solucion<span>web</span></h3>
-                            <p class="pad_bot1">This website template has several pages: Home, News, Services, Products, Contacts (contact form doesn’t work).</p>
-                            <a href="#" class="link1">Read More</a>
+                            <p class="pad_bot1">Compartimos su pensamiento: Internet ya hace parte de nosotros, es el presente y el futuro, diseñamos herramientas para esto.</p>
+                            <a href="#" class="link1">Leer mas</a>
                         </section>
                     </div>
                     <div class="wrapper">
