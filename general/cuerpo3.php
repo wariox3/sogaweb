@@ -3,9 +3,9 @@
                 <article id="content">
                     <div class="wrapper">
                         <section class="cols">
-                            <h3><span class="dropcap">A</span>Planica<span>negocios</span></h3>
-                            <p class="pad_bot1">Progress is one of <a href="http://blog.templatemonster.com/free-website-templates/" target="_blank">free website templates</a> created by TemplateMonster.com, optimized for 1024x768 res.</p>
-                            <a href="#" class="link1">Read More</a>
+                            <h3><span class="dropcap">A</span>Plafica<span>negocios</span></h3>
+                            <p class="pad_bot1">Herramientas con un enfoque de <a href="#" target="_blank">proyeccion</a> creadas para soportar las decisiones a futuro del negocio.</p>
+                            <a href="#" class="link1">Leer mas</a>
                         </section>
                         <section class="cols pad_left1">
                             <h3><span class="dropcap">B</span>Crea<span>estrategias</span></h3>
@@ -25,7 +25,7 @@
                     </div>
                     <div class="wrapper">
                         <section class="col1">
-                            <h2 class="under">Welcome, dear visitor!</h2>
+                            <h2 class="under">Bienvenido, estamos innovando!</h2>
                             <div class="wrapper">
                                 <figure class="left marg_right1"><img src="images/page1_img1.jpg" alt=""></figure>
                                 <p class="pad_bot1">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa.</p>

@@ -1,5 +1,5 @@
                 <div class="wrapper">
-                <h1><a href="index.html" id="logo">App Soga</a></h1>
+                <h1><a href="<?php echo $strRutaVacia; ?>index.php" id="logo">App Soga</a></h1>
                 <nav>
                         <ul id="menu">
                                 <li id="nav1" class="active"><a href="<?php echo $strRutaVacia; ?>index.php">Inicio<span>Bienvenido!</span></a></li>

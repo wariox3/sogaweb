@@ -2,7 +2,7 @@
 <?php $strRutaVacia = '../../'; ?>
 <html lang="en">
     <head>
-        <title>Recurso humano</title>
+        <title>Turnos</title>
         <?php include $strRutaVacia.'general/referencias2.php'; ?>
     </head>
 
@@ -24,14 +24,14 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>01</strong><span>01.01</span></span>Crear un cliente</h5>
-                            <div class="wrapper pad_bot2">
-                                <iframe width="854" height="480" src="https://www.youtube.com/embed/cQqgiFtaK7A" frameborder="0" allowfullscreen></iframe>
+                            <h5><span class="dropcap"><strong>01</strong><span>01.01</span></span>Crear un recurso</h5>
+                            <div class="wrapper pad_bot2">     
+                                <iframe width="854" height="480" src="https://www.youtube.com/embed/T4xEs2SvFMU" frameborder="0" allowfullscreen></iframe>
                             </div>                            
                         </div>
-
-
                 </article>
+                <a href="../turno/lista.php" class="link1">Volver</a>
+                <br /><br />
             </div>
         </div>
         <div class="body4">
