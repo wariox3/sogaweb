@@ -3,7 +3,7 @@
                 <article id="content">
                     <div class="wrapper">
                         <section class="cols">
-                            <h3><span class="dropcap">A</span>Plafica<span>negocios</span></h3>
+                            <h3><span class="dropcap">A</span>Planifica<span>negocios</span></h3>
                             <p class="pad_bot1">Herramientas con un enfoque de <a href="#" target="_blank">proyeccion</a> creadas para soportar las decisiones a futuro de su negocio.</p>
                             <a href="#" class="link1">Leer mas</a>
                         </section>
