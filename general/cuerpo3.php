@@ -28,7 +28,7 @@
                             <h2 class="under">Bienvenido, estamos innovando!</h2>
                             <div class="wrapper">
                                 <figure class="left marg_right1"><img src="images/page1_img1.jpg" alt=""></figure>
-                                <p class="pad_bot1">Compativilidad, rendimiento, desempeño, agilidad son adjetivos dentro de cada uno de los desarrollos asumidos por el equipo de Soga, la satisfaccion del cliente se ve reflejada en el uso de nuestras aplicaciones hechas con los ultimos estandares de calidad y en las mejores herramientas de desarrollo.</p>
+                                <p class="pad_bot1">Compatibilidad, rendimiento, desempeño, agilidad son adjetivos dentro de cada uno de los desarrollos asumidos por el equipo de Soga, la satisfaccion del cliente se ve reflejada en el uso de nuestras aplicaciones hechas con los ultimos estandares de calidad y en las mejores herramientas de desarrollo.</p>
                                 <p>
                                     El uso de herramientas que trabajan sobre cualquier sistema operativo y las cuales son de uso libre evita la transferencia de costos indirectos a los clientes que no necesitan depender de alguna marca o sistema operativo en particular.</p>
                             </div>
