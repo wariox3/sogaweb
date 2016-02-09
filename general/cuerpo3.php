@@ -28,9 +28,9 @@
                             <h2 class="under">Bienvenido, estamos innovando!</h2>
                             <div class="wrapper">
                                 <figure class="left marg_right1"><img src="images/page1_img1.jpg" alt=""></figure>
-                                <p class="pad_bot1">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa.</p>
+                                <p class="pad_bot1">Compativilidad, rendimiento, desempeño, agilidad son adjetivos dentro de cada uno de los desarrollos asumidos por el equipo de Soga, la satisfaccion del cliente se ve reflejada en el uso de nuestras aplicaciones hechas con los ultimos estandares de calidad y en las mejores herramientas de desarrollo.</p>
                                 <p>
-                                    Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.</p>
+                                    El uso de herramientas que trabajan sobre cualquier sistema operativo y las cuales son de uso libre evita la transferencia de costos indirectos a los clientes que no necesitan depender de alguna marca o sistema operativo en particular.</p>
                             </div>
                         </section>
                         <section class="col2 pad_left1">

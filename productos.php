@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>Documentacion</title>
+        <title>Productos</title>
         <?php include 'general/referencias.php'; ?>
     </head>
 
