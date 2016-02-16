@@ -2,7 +2,7 @@
 <?php $strRutaVacia = '../../'; ?>
 <html lang="en">
     <head>
-        <title>Recurso humano</title>
+        <title>Documentacion turnos</title>
         <?php include $strRutaVacia . 'general/referencias2.php'; ?>
     </head>
 
@@ -38,6 +38,7 @@
                     <h5><span class="dropcap"><strong>01</strong><span>02</span></span>Administracion</h5>
                     <div class="wrapper pad_bot2">
                         <ul>
+                            <li><a href="administracionCentroCosto.php" class="link1">Crear centros de costos</a></li>
                             <li><a href="administracionCliente.php" class="link1">Crear clientes</a></li>
                             <li><a href="administracionProspecto.php" class="link1">Crear prospectos</a></li>
                             <li><a href="administracionRecurso.php" class="link1">Crear recursos</a></li>
@@ -60,6 +61,15 @@
                         </ul>
                     </div>
                 </article>
+                
+                <article id="content">
+                    <h5><span class="dropcap"><strong>01</strong><span>03</span></span>Procesos</h5>
+                    <div class="wrapper pad_bot2">
+                        <ul>
+                            <li><a href="procesoGenerarSoportePago.php" class="link1">Generar soporte pago</a></li>
+                        </ul>
+                    </div>
+                </article>                
             </div>
         </div>
         <div class="body4">
