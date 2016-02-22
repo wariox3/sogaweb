@@ -22,16 +22,22 @@
         </div>
         <div class="body3">
             <div class="main">
-                <!-- content -->
-                <br />
-                <ul>
-                    <li>Administracion</li>
-                    <ul>
-                        <li><a href="crearEmpleado.php" class="link1">Crear empleado</a></li>
-                        <li><a href="crearContrato.php" class="link1">Crear contrato</a></li>
-                    </ul>
-                </ul>
-                <br />
+                <article id="content">
+                    <h5><span class="dropcap"><strong>01</strong><span>02</span></span>Herramientas: Soga E - Empleados</h5>
+                    <div class="wrapper pad_bot2">
+                        <ul>
+                            <li>Aplicacion para empleados: Con esta herramienta los empleados podran consultar toda la informacion 
+                                generada por el modulo de recursos humano. <br/>
+                                - Pagos: nomina, primas, vacaciones, cesantias, liquidaciones.<br />
+                                - Procesos disciplinarios<br />
+                                - Liquidaciones<br />
+                                - Certifiados laborales<br />
+                                - Permisos <br /><br />
+                                <a href="recursos/ManualUsuarioEmpleado.pdf" class="link1">Descargar manual empleado</a>
+                            </li>
+                        </ul>
+                    </div>
+                </article>
             </div>
         </div>
         <div class="body4">
