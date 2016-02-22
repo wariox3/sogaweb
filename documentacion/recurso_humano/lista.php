@@ -33,7 +33,7 @@
                                 - Liquidaciones<br />
                                 - Certifiados laborales<br />
                                 - Permisos <br /><br />
-                                <a href="recursos/ManualUsuarioEmpleado.pdf" class="link1">Descargar manual empleado</a>
+                                <a href="recursos/ManualUsuarioEmpleadoV1.pdf" class="link1">Descargar manual empleado</a>
                             </li>
                         </ul>
                     </div>
