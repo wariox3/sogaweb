@@ -23,6 +23,14 @@
         <div class="body3">
             <div class="main">
                 <article id="content">
+                    <h5><span class="dropcap"><strong>01</strong><span>03</span></span>Movimiento</h5>
+                    <div class="wrapper pad_bot2">
+                        <ul>
+                            <li><a href="movimientoProgramacionPagoSoporteTurnos.php" class="link1">Programacion de pago (Soporte turnos)</a></li>
+                        </ul>
+                    </div>
+                </article>                
+                <article id="content">
                     <h5><span class="dropcap"><strong>01</strong><span>02</span></span>Herramientas: Soga E - Empleados</h5>
                     <div class="wrapper pad_bot2">
                         <ul>

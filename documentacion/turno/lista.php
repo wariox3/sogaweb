@@ -69,6 +69,15 @@
                             <li><a href="procesoGenerarSoportePago.php" class="link1">Generar soporte pago</a></li>
                         </ul>
                     </div>
+                </article>  
+                
+                <article id="content">
+                    <h5><span class="dropcap"><strong>01</strong><span>03</span></span>Preguntas frecuentes</h5>
+                    <div class="wrapper pad_bot2">
+                        <ul>
+                            <li><a href="preguntas/01.php" class="link1">01 - ¿Como generar una programacion de pago con base en un soporte de pago?</a></li>
+                        </ul>
+                    </div>
                 </article>                
             </div>
         </div>

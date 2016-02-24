@@ -24,13 +24,13 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>01</strong><span>01.01</span></span>Generar soporte pago</h5>
+                            <h5><span class="dropcap"><strong>01</strong><span>01.01</span></span>Programacion de pago (Soporte turnos)</h5>
                             <div class="wrapper pad_bot2">
-                                <iframe width="854" height="480" src="https://www.youtube.com/embed/FKEb8NMlX4U" frameborder="0" allowfullscreen></iframe>                                                                
+                                <iframe width="854" height="480" src="https://www.youtube.com/embed/SiEj5dNHBqQ" frameborder="0" allowfullscreen></iframe>                                
                             </div>                            
                         </div>
                 </article>
-                <a href="../turno/lista.php" class="link1">Volver</a>
+                <a href="../recurso_humano/lista.php" class="link1">Volver</a>
                 <br /><br />
             </div>
         </div>
