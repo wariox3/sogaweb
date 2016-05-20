@@ -14,7 +14,7 @@
                             <h4>Direccion</h4>
                             <ul class="address">
                                 <li><span>Pais:</span>Colombia</li>
-                                <li><span>Ciudad:</span>Medellon</li>
+                                <li><span>Ciudad:</span>Medellin</li>
                                 <li><span>Telefono:</span>4 4448120</li>
                                 <li><span>Email:</span><a href="mailto:">sogainformacion@gmail.com</a></li>
                             </ul>
