@@ -49,7 +49,7 @@
                                 <h3><span class="dropcap">5</span>Herramientas</h3>
                                 <figure><img src="images/page4_img4.jpg" alt=""></figure>
                                 <p class="pad_bot1">Instructivo para manejo de herramientas tipo general, calendario, tareas, proyectos, gestor de archivos entre otras.</p>
-                                <a href="#" class="link1">Leer mas</a>
+                                <a href="documentacion/herramienta/lista.php" class="link1">Leer mas</a>
                             </div>
                         </section>
                         <section class="cols pad_left1">
