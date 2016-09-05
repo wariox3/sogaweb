@@ -25,20 +25,27 @@
 			<article id="content">
 				<div class="wrapper tabs">
 					<div class="tab-content" id="tab1">
-						<h5><span class="dropcap"><strong>11</strong><span>15</span></span>Plazas seguridad Ltda</h5>
+						<h5><span class="dropcap"><strong>1</strong><span>01</span></span>Plazas seguridad Ltda</h5>
 						<div class="wrapper pad_bot2">
-							<figure class="left marg_right1"><img src="images/logos/logoplazas.jpg" width="150" height="150" alt=""></figure>
+							<figure class="left marg_right1"><img src="images/logos/logoplazas.jpg" width="100" height="100" alt=""></figure>
 							<p class="pad_bot1">Cliente estrategico en el sector de la seguridad privada
                                                         
                                                         </p>
-							<a href="#" class="link1">Leer mas</a>
+							<a href="http://192.168.10.152/plazas/web/app.php/login" class="link1">Acesso</a>
 						</div>
-						<h5><span class="dropcap"><strong>11</strong><span>15</span></span>1Teg Seguridad</h5>
+						<h5><span class="dropcap"><strong>1</strong><span>02</span></span>1Teg Seguridad</h5>
 						<div class="wrapper pad_bot2">
-							<figure class="left marg_right1"><img src="images/logos/logo1teg.jpg" width="150" height="150" alt=""></figure>
+							<figure class="left marg_right1"><img src="images/logos/logo1teg.jpg" width="100" height="100" alt=""></figure>
 							<p class="pad_bot1">Cliente estrategico en el sector de la seguridad privada
                                                         </p>
-							<a href="#" class="link1">Leer mas</a>
+							<a href="http://192.168.10.152/1teg/web/app.php/login" class="link1">Acesso</a>
+						</div>
+                                                <h5><span class="dropcap"><strong>1</strong><span>03</span></span>Seguridad Dorchester</h5>
+						<div class="wrapper pad_bot2">
+                                                    <figure class="left marg_right1"><img src="images/logos/logodorchester.jpg" width="100" height="140" alt=""></figure>
+							<p class="pad_bot1">Cliente estrategico en el sector de la seguridad privada
+                                                        </p>
+							<a href="http://192.168.10.99/dorchester/web/app.php/login" class="link1">Acesso</a>
 						</div>
 					</div>
 					<ul class="nav">
