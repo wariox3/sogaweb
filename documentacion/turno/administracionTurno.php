@@ -25,24 +25,23 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>01</strong><span>01.01</span></span>Crear un turno</h5>
+                            <h5><span class="dropcap"><strong>01</strong><span>05</span></span>Crear un turno</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li>
-                                        
                                         Los turnos son los segmentos de tiempos que labora un empleado en determinado dia.<br><br>
                                         
                                         Para realizar la creación de los turnos vamos al modulo administración - Turnos - Turno. <br><br>
 
-                                        <img src="../../images/turnos/turno1.jpg"  alt=""/><br> <br> <br>
+                                        <img src="../../images/turno/turnos/turno1.jpg"  alt=""/><br> <br> <br>
  
                                         Una vez ingresamos al modulo contamos con la opción de observar los turnos ya creados<br>
                                         con sus respectivas opciones de nuevo - eliminar y exportar los archivos a excel. <br><br>
                                         
-                                        <img src="../../images/turnos/turno2.jpg" width="920px"  alt=""/><br> <br> <br>
+                                        <img src="../../images/turno/turnos/turno2.jpg" width="920px"  alt=""/><br> <br> <br>
                                         
                                         Ingresamos a la opción de nuevo y agregaremos los siguientes datos: <br> <br>
-                                        Código (Es un código alfanumérico que identifica dicha turno).<br>
+                                        Código (Es un código alfanumérico que identifica dicho turno).<br>
                                         Nombre (El nombre que se le asigna como tal al turno para reconocerlo). <br>
                                         Hora desde (La hora en la que inicia el turno). <br>
                                         Hora hasta (La hora en la que finaliza el turno).<br>
@@ -62,10 +61,10 @@
                                         Inducción (Si el turno es para un proceso de inducción). <br>
                                         Comentarios (Campo para agregar cualquier tipo de comentario del turno). <br><br>
                                         
-                                        <img src="../../images/turnos/turno3.jpg"  alt=""/><br> <br> <br>
+                                        <img src="../../images/turno/turnos/turno3.jpg"  alt=""/><br> <br> <br>
                                         
-                                        Para finalizar el proceso solo vamos al boton guardar.<img src="../../images/turnos/turno4.jpg"  alt=""/><br><br>
-                                        Si deseamos guardar el registros y generar uno nuevo de forma inmediata basta con usar la opcional guardar y nuevo. <img src="../../images/turnos/turno5.jpg"  alt=""/>
+                                        Para finalizar el proceso solo vamos al boton guardar.<img src="../../images/turno/turnos/turno4.jpg"  alt=""/><br><br>
+                                        Si deseamos guardar el registros y generar uno nuevo de forma inmediata basta con usar la opcional guardar y nuevo. <img src="../../images/turno/turnos/turno5.jpg"  alt=""/>
                                         
                                     </li>
                                 </ul>
