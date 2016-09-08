@@ -31,22 +31,29 @@
 							<p class="pad_bot1">Cliente estrategico en el sector de la seguridad privada
                                                         
                                                         </p>
-							<a href="http://192.168.10.152/plazas/web/app.php/login" class="link1">Acesso</a>
+							<a href="http://181.143.57.92/plazas/web/app.php/login" class="link1">Acesso</a>
 						</div>
 						<h5><span class="dropcap"><strong>1</strong><span>02</span></span>1Teg Seguridad</h5>
 						<div class="wrapper pad_bot2">
 							<figure class="left marg_right1"><img src="images/logos/logo1teg.jpg" width="100" height="100" alt=""></figure>
 							<p class="pad_bot1">Cliente estrategico en el sector de la seguridad privada
                                                         </p>
-							<a href="http://192.168.10.152/1teg/web/app.php/login" class="link1">Acesso</a>
+							<a href="http://181.143.57.92/1teg/web/app.php/login" class="link1">Acesso</a>
 						</div>
                                                 <h5><span class="dropcap"><strong>1</strong><span>03</span></span>Seguridad Dorchester</h5>
 						<div class="wrapper pad_bot2">
-                                                    <figure class="left marg_right1"><img src="images/logos/logodorchester.jpg" width="100" height="140" alt=""></figure>
+                                                    <figure class="left marg_right1"><img src="images/logos/logodorchester.jpg" width="100" height="100" alt=""></figure>
 							<p class="pad_bot1">Cliente estrategico en el sector de la seguridad privada
                                                         </p>
-							<a href="http://192.168.10.99/dorchester/web/app.php/login" class="link1">Acesso</a>
+							<a href="http://181.143.57.93/dorchester/web/app.php" class="link1">Acesso</a>
 						</div>
+                                                <h5><span class="dropcap"><strong>1</strong><span>04</span></span>Galaxia seguridad</h5>
+						<div class="wrapper pad_bot2">
+                                                    <figure class="left marg_right1"><img src="images/logos/logogalaxia.png" width="100" height="100" alt=""></figure>
+							<p class="pad_bot1">Cliente estrategico en el sector de la seguridad privada
+                                                        </p>
+							<a href="http://181.143.57.93/galaxia/web/app.php" class="link1">Acesso</a>
+						</div>                                                
 					</div>
 					<ul class="nav">
 						<li class="selected"><a href="#tab1">1</a></li>
