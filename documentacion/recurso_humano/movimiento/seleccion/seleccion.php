@@ -23,11 +23,22 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>03</strong><span>01.01</span></span>Crear cliente</h5>
+                            <h5><span class="dropcap"><strong>03</strong><span>01.01</span></span>Selección</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li>
-                                       
+                                        La selección de personal es aquella actividad que desplegara el departamento de recursos humanos <br>
+                                        que consiste en elegir la persona más idónea para un puesto o vacante de una empresa. <br> <br>
+                                        
+                                        Para realizar la selección vamos al modulo movimientos- recurso humano- selección- selección. <br> <br>
+                                        
+                                        <img src="../../../../images/recurso_humano/seleccion/seleccion1.jpg"  alt="" width="920"/> <br> <br> 
+                                        
+                                        Al ingresar a este modulo observamos los aspirantes ya creados y la opción de filtrar, nuevo, eliminar y exportar a excel. <br>
+                                        Si ingresamos el nombre o número de documento del aspirante que deseamos  seleccionar, nos aparecerá automáticamente en la parte inferior. <br> <br>
+                                        
+                                        <img src="../../../../images/recurso_humano/seleccion/seleccion2.jpg"  alt="" width="920"/> <br> <br>
+                                        
                                     </li>
                                 </ul>    
                             </div>                            
