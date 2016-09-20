@@ -23,7 +23,7 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>03</strong><span>01.01</span></span>Crear cliente</h5>
+                            <h5><span class="dropcap"><strong>03</strong><span>01.01</span></span>Recurso Humano</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li>Los clientes en recursos humanos

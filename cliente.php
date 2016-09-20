@@ -53,7 +53,14 @@
 							<p class="pad_bot1">Cliente estrategico en el sector de la seguridad privada
                                                         </p>
 							<a href="http://181.143.57.93/galaxia/web/app.php" class="link1">Acesso</a>
-						</div>                                                
+						</div>
+                                                <h5><span class="dropcap"><strong>1</strong><span>05</span></span>Seguridad Estelar</h5>
+						<div class="wrapper pad_bot2">
+                                                    <figure class="left marg_right1"><img src="images/logos/logoestelar.jpg" width="100" height="100" alt=""></figure>
+							<p class="pad_bot1">Cliente estrategico en el sector de la seguridad privada
+                                                        </p>
+							<a href="http://181.143.57.93/estelar/web/app.php" class="link1">Acesso</a>
+						</div>                                                     
 					</div>
 					<ul class="nav">
 						<li class="selected"><a href="#tab1">1</a></li>

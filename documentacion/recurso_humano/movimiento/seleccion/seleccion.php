@@ -39,6 +39,51 @@
                                         
                                         <img src="../../../../images/recurso_humano/seleccion/seleccion2.jpg"  alt="" width="920"/> <br> <br>
                                         
+                                        Nos dirigimos al siguiente paso, ingresamos al detalle ubicado en la parte derecha y nos mostrara toda la información del aspirante. <br> <br>
+                                        
+                                        <img src="../../../../images/recurso_humano/seleccion/seleccion3.jpg"  alt="" width="920"/> <br> <br>
+                                        
+                                        A través de esta ventana vamos a registrar los resultados de las entrevistas, pruebas e ingresamos las referencias personales / laborales y el resumen de la visita domiciliaria. <br> <br>
+                                        
+                                        Iniciaremos el proceso ingresando a la opcion entrevista y llenaremos los siguientes campos. <br> <br>
+                                        
+                                        Tipo de entrevista (El tipo de entrevista que se le realizo al aspirante) <br>
+                                        Fecha/hora entrevista (La fecha y hora en que se realizó la entrevista) <br>
+                                        Resultado cualitativo (El resultado en letras de la entrevista) <br>      
+                                        Resultado cuantitativo (El resultado en números de la entrevista) <br>
+                                        Persona que entrevista (La persona que realizo la entrevista) <br>
+                                        Comentarios (Si la persona que entrevisto desea agregar algún comentario) <br> <br> 
+                                        
+                                        <img src="../../../../images/recurso_humano/seleccion/seleccion4.jpg"  alt="" /> <br> <br>
+                                        
+                                        Para finalizar presionamos la opción <img src="../../../../images/recurso_humano/seleccion/seleccion13.jpg"  alt=""/> <br> <br>
+                                        
+                                        Una vez hecho este paso vamos a realizar el mismo procedimiento con las pruebas, referencias y visita. <br> <br>
+                                        
+                                        <img src="../../../../images/recurso_humano/seleccion/seleccion5.jpg"  alt="" width="920" /> <br> <br>
+                                        
+                                        <img src="../../../../images/recurso_humano/seleccion/seleccion6.jpg"  alt="" /> <br> <br>
+                                        
+                                        <img src="../../../../images/recurso_humano/seleccion/seleccion8.jpg"  alt="" /> <br> <br>
+                                        
+                                        Las referencias siempre deben ser confirmadas, para esto seleccionamos el cuadro ubicado en la parte derecha y pasamos al botón verificar. <br> <br>
+                                        
+                                        <img src="../../../../images/recurso_humano/seleccion/seleccion7.jpg"  alt="" width="920" /> <br> <br>
+                                        
+                                        Luego agregamos los resultados de la visita. <br> <br>
+                                        
+                                        <img src="../../../../images/recurso_humano/seleccion/seleccion10.jpg"  alt="" /> <br> <br>
+                                        
+                                        Al haber guardado todo este proceso lo que debemos hacer es autorizar el proceso de selección, para ello vamos a buscar el botón autorizar. <br> <br>
+                                        
+                                        <img src="../../../../images/recurso_humano/seleccion/seleccion11.jpg"  alt="" /> <br> <br>
+                                         
+                                        Seguido de esto vamos a seleccionar el botón aprobar. <br> <br> 
+                                        
+                                        <img src="../../../../images/recurso_humano/seleccion/seleccion12.jpg"  alt="" /> <br> <br>
+                                        
+                                        De este modo finalizamos el proceso de selección.
+                                        
                                     </li>
                                 </ul>    
                             </div>                            

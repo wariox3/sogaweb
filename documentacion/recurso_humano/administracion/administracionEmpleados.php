@@ -26,17 +26,36 @@
                             <h5><span class="dropcap"><strong>03</strong><span>01.03</span></span>Empleados</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
-                                    <li>A través de este modulo se puede realizar todo el proceso de gestión de los empleados. <br /><br />
-                                        Cuenta con las siguientes funcionalidades: <br /><br />
-                                        .Filtrado de búsqueda (Nombre, identificación, centro de costo, estado, contratado).<br />
-                                        .Creación de empleado. <br />
-                                        .Edición de empleado. <br />
-                                        .Verificación del detalle del empleado. <br />
-                                        .Enlace directo a contratos. <br />
-                                        .Enlace directo a procesos disciplinarios. <br />
-                                        .Total de empleados registrados. <br />
-                                        .Exportación de listado de empleados (Excel, PDF). <br />
-                                        .Activación y desactivación de empleados.                                       
+                                    <li>
+                                        A través de este modulo se puede realizar todo el proceso de gestión de los empleados.<br> <br>
+                                        
+                                        Para ingresar un nuevo empleado, nos dirigimos al modulo administración- recurso humano- empleados. <br> <br>
+                                        
+                                        <img src="../../../images/recurso_humano/empleados/empleados1.jpg"  alt=""/> <br> <br> 
+                                        
+                                        Al ingresar a este módulo nos aparecerá la lista de empleados ya creados y las respectivas opciones de filtrar, enlaces, interfaz, PDF, exportar a Excel, nuevo y activar/inactivar. <br> <br>
+                                        
+                                        <img src="../../../images/recurso_humano/empleados/empleados2.jpg"  alt="" width="920"/> <br> <br> 
+                                        
+                                        Para crear un nuevo empleado vamos a la opción nueva y empezaremos a ingresar los datos solicitados en el formulario. <br> <br>
+
+                                        
+                                        <img src="../../../images/recurso_humano/empleados/empleados3.jpg"  alt="" width="920"/>
+                                        <img src="../../../images/recurso_humano/empleados/empleados4.jpg"  alt="" width="920"/>
+                                        <img src="../../../images/recurso_humano/empleados/empleados5.jpg"  alt="" width="920"/>
+                                        <img src="../../../images/recurso_humano/empleados/empleados6.jpg"  alt="" width="920"/> <br> <br>
+                                        
+                                        Si deseamos enlazar todo el contenido del registro que se realizo anteriormente en selección simplemente vamos al botón <br>
+                                        
+                                        <img src="../../../images/recurso_humano/empleados/empleados7.jpg"  alt="" /> <br> <br>
+                                        
+                                        Una vez este ingresada la información vamos al botón <img src="../../../images/recurso_humano/empleados/empleados8.jpg"  alt="" width="50" /> <br>
+                                        Si lo que deseamos es guardar la información del empleado y crear uno nuevo vamos al botón <img src="../../../images/recurso_humano/empleados/empleados9.jpg"  alt="" width="80" /> <br> <br>
+                                        
+                                        Al guardar el registro nos aparecerá una tabla con toda la información del empleado antes ingresada, con sus respectivas opciones de, imprimir, archivos, utilidades, y generar certificado de ingresos y retenciones. <br> <br>
+                                        
+                                        <img src="../../../images/recurso_humano/empleados/empleados10.jpg"  alt="" width="920"/> <br> <br>
+                                        
                                     </li>
                                 </ul>    
                             </div>                            

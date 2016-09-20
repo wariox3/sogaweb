@@ -23,7 +23,7 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>03</strong><span>01.01</span></span>Crear cliente</h5>
+                            <h5><span class="dropcap"><strong>03</strong><span>01.01</span></span>Seleccion</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li>La opcion de selección  es todo el proceso que se debe realizar para ofrecer una nueva vacante laboral.<br>
