@@ -26,25 +26,18 @@
                             <h5><span class="dropcap"><strong>03</strong><span>01.04</span></span>Contratos</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
-                                    <li>El modulo de contratos nos da una visión general y detalla de los contratos que están creados en el sistema <br /><br />
-                                        Cuenta con las siguientes funcionalidades: <br /><br />
-                                        .Filtrado de búsqueda (Nombre, identificación, fecha , centro de costo, estado). <br />
-                                        .Terminación de contrato. <br />
-                                        .Cambio de contrato. <br />
-                                        .Edición de contrato. <br />
-                                        .Verificar el detallado del contrato. <br />
-                                        .Total de contratos en la plataforma. <br />
-                                        .Exportación de listado de contratos(Excel). <br />
-                                        .Inactivación de contratos. <br />
-                                        .Carga de documentacion. <br />
-                                        .Impresión del contrato. <br />
-                                        .Impresión de carta de presentacion. <br />
+                                    <li>
+                                        Para el modulo de contratos vamos a explorar dos opciones que son importantes. <br> <br>
+                                        
+                                        La creacion de un contrato de un empleado ya creado. <a href="contratoEmplaedo/contratoEmpleado.php" class="link1"> Verificar. <br> </a>
+                                        El modulo de contratos que nos da una vision general y detallada de los contratos que estan creados en el sistema. <a href="contratoEmplaedo/" class="link1"> Verificar. <br>  <br> </a> 
+                                       
                                     </li>
                                 </ul>    
                             </div>                            
                         </div>
                 </article>
-                <a href="../recurso_humano/lista.php" class="link1">Volver</a>
+                <a href="../lista.php" class="link1">Volver</a>
                 <br /><br />
             </div>
         </div>
