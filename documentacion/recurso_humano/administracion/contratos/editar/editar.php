@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php $strRutaVacia = '../../../'; ?>
+<?php $strRutaVacia = '../../../../../'; ?>
 <html lang="en">
     <head>
         <title>Recurso Humano</title>
@@ -23,21 +23,30 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>03</strong><span>01.04</span></span>Contratos</h5>
+                            <h5><span class="dropcap"><strong>03</strong><span>01.01</span></span>Editar contrato</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
-                                    <li>
-                                        Para el modulo de contratos vamos a explorar dos opciones que son importantes. <br> <br>
+                                    <li> 
+                                        Para editar un contrato vamos a la opción editar el registro <img src="../../../../../images/recurso_humano/contrato/contrato3.jpg"  alt="" /> y se nos desplegara la siguiente pantalla.<br> <br>
                                         
-                                        La creacion de un contrato de un empleado ya creado. <a href="contratoEmplaedo/contratoEmpleado.php" class="link1"> Verificar. <br> </a>
-                                        El modulo de contratos que nos da una vision general y detallada de los contratos que estan creados en el sistema. <a href="contratos/contrato.php" class="link1"> Verificar. <br>  <br> </a> 
-                                       
+                                        <img src="../../../../../images/recurso_humano/contrato/contrato4.jpg"  alt="" width="920"/> 
+                                        <img src="../../../../../images/recurso_humano/contrato/contrato5.jpg"  alt="" width="920"/> <br> <br>
+                                        
+                                        A través de este formulario solo modificamos el campo que necesitemos actualizar y finalizamos con el botón guardar. <br> <br>
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
                                     </li>
                                 </ul>    
                             </div>                            
                         </div>
                 </article>
-                <a href="../lista.php" class="link1">Volver</a>
+                <a href="../contrato.php" class="link1">Volver</a>
                 <br /><br />
             </div>
         </div>

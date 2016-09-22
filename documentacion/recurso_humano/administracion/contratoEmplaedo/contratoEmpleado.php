@@ -29,13 +29,13 @@
                                     <li> 
                                         Para crear el contrato de un empleado nos dirigimos al modulo administración- recurso humano- empleados.<br> <br>
                                         
-                                        <img src="../../../../images/recurso_humano/contrato/contrato1.jpg"  alt=""/> <br> <br>
+                                        <img src="../../../../images/recurso_humano/contratoEmpleado/contrato1.jpg"  alt=""/> <br> <br>
                                         
                                         Hecho esto nos aparecerá la lista de empleados ya creados, para generar el nuevo contrato <br>
                                         vamos a buscar el empleado que deseamos filtrando su nombre o número de documento. <br> <br>
                                         Una vez nos aparezca vamos a la opción acciones nuevo- contrato.
                                         
-                                        <img src="../../../../images/recurso_humano/contrato/contrato2.jpg"  alt="" width="920"/> <br> <br>
+                                        <img src="../../../../images/recurso_humano/contratoEmpleado/contrato2.jpg"  alt="" width="920"/> <br> <br>
                                         
                                         Una vez hecho esto, procederemos a ingresar la siguiente información. <br> <br>
                                         
@@ -64,14 +64,14 @@
                                         Caja de compensación (Nombre de caja de compensación a la que pertenece) <br>
                                         Cesantía (Nombre de cesantía a la que pertenece) <br> <br>
                                         
-                                        <img src="../../../../images/recurso_humano/contrato/contrato3.jpg"  alt="" width="920"/> 
-                                        <img src="../../../../images/recurso_humano/contrato/contrato4.jpg"  alt="" width="920"/> <br> <br>
+                                        <img src="../../../../images/recurso_humano/contratoEmpleado/contrato3.jpg"  alt="" width="920"/> 
+                                        <img src="../../../../images/recurso_humano/contratoEmpleado/contrato4.jpg"  alt="" width="920"/> <br> <br>
                                         
-                                        Al ingresar esta información vamos a la opción <img src="../../../../images/recurso_humano/contrato/contrato5.jpg"  alt="" width="50"/> <br> <br>
+                                        Al ingresar esta información vamos a la opción <img src="../../../../images/recurso_humano/contratoEmpleado/contrato5.jpg"  alt="" width="50"/> <br> <br>
                                         
                                         Con este paso finalizamos el proceso y nos quedara generado el nuevo contrato. <br> <br>
                                         
-                                        <img src="../../../../images/recurso_humano/contrato/contrato6.jpg"  alt="" width="920"/>
+                                        <img src="../../../../images/recurso_humano/contratoEmpleado/contrato6.jpg"  alt="" width="920"/>
 
                                     </li>
                                 </ul>    
