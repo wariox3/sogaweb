@@ -23,27 +23,33 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>03</strong><span>01.01</span></span>Editar contrato</h5>
+                            <h5><span class="dropcap"><strong>03</strong><span>01.01</span></span>Terminación de contratos</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li> 
-                                        Para editar un contrato vamos a la opción editar el registro. <img src="../../../../../images/recurso_humano/contrato/contrato3.jpg"  alt="" /> <br> <br>
+                                        Para Finalizar un contrato vamos a la opción terminar. <img src="../../../../../images/recurso_humano/contrato/contrato7.jpg"  alt="" /> <br> <br>
                                         
                                         <img src="../../../../../images/recurso_humano/contrato/contrato6.jpg"  alt="" width="920"/> <br> <br>
                                         
                                         Luego se nos desplegara la siguiente ventana. <br> <br>
-                                        <img src="../../../../../images/recurso_humano/contrato/contrato4.jpg"  alt="" width="920"/> 
-                                        <img src="../../../../../images/recurso_humano/contrato/contrato5.jpg"  alt="" width="920"/> <br>
+                                        <img src="../../../../../images/recurso_humano/contrato/contrato8.jpg"  alt=""/> <br> <br>
                                         
-                                        A través de este formulario solo modificamos el campo que necesitemos actualizar y finalizamos con el botón guardar. <br> <br>
+                                        El sistema nos mostrara informacion de utilidad para continuar con el proceso de terminacion de contrato como lo son: <br><br>
+                                        Fecha del ultimo pago.<br>
+                                        Fecha del ultimo pago de vacaciones.<br>
+                                        Fecha del ultimo pago de prima. <br>
+                                        Fecha del ultimo pago de cesantias.<br><br>
                                         
+                                        Para proceder con la terminacion solo debemos seleccionar la fecha y el motivo de la terminacion del contrato.<br>
+                                        Luego usamos la opcion guardar para finalizar el proceso.<br><br>
                                         
+                                        Recuede que no puede terminar un contrato antes de la fecha del ultimo pago. <br>
+                                        En caso de que aplique a esta opcion el usuario debe tener un permiso especial
+                                        (Para conocer mas detalles acerca de este tema consulte el modulo de permisos).<br><br>
                                         
+                                        Para verificar que el proceso se realizó correctamente observaremos que ya no tenemos la opción de terminar sobre el registro..<br><br>
                                         
-                                        
-                                        
-                                        
-                                        
+                                        <img src="../../../../../images/recurso_humano/contrato/contrato9.jpg"  alt="" width="920"/> 
                                     </li>
                                 </ul>    
                             </div>                            

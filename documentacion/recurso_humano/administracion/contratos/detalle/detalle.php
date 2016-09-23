@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php $strRutaVacia = '../../../../'; ?>
+<?php $strRutaVacia = '../../../../../'; ?>
 <html lang="en">
     <head>
         <title>Recurso Humano</title>
@@ -23,32 +23,25 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>03</strong><span>01.01</span></span>Modulo de contratos</h5>
+                                <h5><span class="dropcap"><strong>03</strong><span>01.01</span></span>Detalle del contrato</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li> 
-                                        En el modulo de contratos se puede realizar la busqueda de los contratos ya creados en el sistema, terminacion del contrato y cambios. <br> <br>
+                                        Para verificar el detalle de un contrato vamos a la opción detalles del registro <img src="../../../../../images/recurso_humano/contrato/contrato13.jpg"  alt="" /> <br> <br>
                                         
-                                        Para ingresar al módulo de contratos vamos a Administración - Recurso humano - contratos. <br> <br>
+                                        <img src="../../../../../images/recurso_humano/contrato/contrato6.jpg"  alt="" width="920"/> <br> <br>
                                         
-                                        <img src="../../../../images/recurso_humano/contrato/contrato1.jpg"  alt=""/> <br> <br> <br>         
+                                        Luego se nos desplegara la siguiente ventana. <br> <br>
+                                        <img src="../../../../../images/recurso_humano/contrato/contrato14.jpg"  alt="" width="920"/> <br> <br>
                                         
-                                        Al ingresar observamos los contratos ya creados en el sistema con su respectivo sistema de busqueda. <br> <br>
-                     
-                                        <img src="../../../../images/recurso_humano/contrato/contrato2.jpg"  alt="" width="920"/> <br> <br>
-                                        
-                                        En esta ventana vamos a realizar las modificaciones a los contratos como lo son: <br><br>
-                                        <a href="editar/editar.php" class="link1"> Editar contrato<br></a>
-                                        <a href="terminacion/terminacion.php" class="link1"> Terminacion de contrato.<br></a>
-                                        <a href="cambio/cambio.php" class="link1">Cambio de contrato.<br></a>
-                                        <a href="detalle/detalle.php" class="link1">Ver el detalle del contrato.<br> <br></a>      
-                                        
+                                        Al ingresar a esta ventana tenemos las siguientes opciones
+
                                     </li>
                                 </ul>    
                             </div>                            
                         </div>
                 </article>
-                <a href="../administracionContrato.php" class="link1">Volver</a>
+                <a href="../contrato.php" class="link1">Volver</a>
                 <br /><br />
             </div>
         </div>
