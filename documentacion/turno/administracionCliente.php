@@ -28,28 +28,42 @@
                             <div class="wrapper pad_bot2">                                
                                 <ul>
                                     <li>
-                                        Los clientes en el modulo de turnos son a los que se les asignara un servicio determinado.<br><br>
+                                        Los clientes en el módulo de turnos son a los que se les asignara un servicio determinado.<br><br>
                                         
-                                        Para realizar dicho procedimiento vamos al modulo de administracion - Turno - Cliente - Cliente. <br> <br>
+                                        Para realizar dicho procedimiento vamos al módulo de administración - Turno - Cliente - Cliente. <br> <br>
                                         
                                         <img src="../../images/turno/clientes/cliente1.jpg"  alt=""/><br> <br>
                                         
-                                        Inicialmente visualizaremos todos los clientes ya creados en la plataforma con sus respectivas opciones de filtrado creacion y exportacion.<br><br>
+                                        Inicialmente visualizaremos todos los clientes ya creados en la plataforma con sus respectivas opciones de filtrado creación y exportación.<br><br>
                                         
                                         <img src="../../images/turno/clientes/cliente2.jpg" width="920px" alt=""/><br> <br>
                                         
-                                        Ingresamos a la opcion de nuevo para iniciar el procedimiento y llenamos los siguientes campos: <br><br>
+                                        Ingresamos a la opción de nuevo para iniciar el procedimiento y llenamos los siguientes campos: <br><br>
                                         
                                         Tipo (Tipo de documento).<br>
-                                        Numero (Numero del tipo de indentificacion seleccionado anteriormente).<br>
-                                        Digito de verificacion (En caso de que el tipo de documento contenga un digito de verificacion). <br>
+                                        Numero (Numero del tipo de identificación seleccionado anteriormente).<br>
+                                        Dígito de verificación (En caso de que el tipo de documento contenga un dígito de verificación).<br>
                                         Nombre corto (Nombre de poco caracteres para reconocer el recliente). <br>
                                         Nombre completo.<br>
-                                        Nombre 1. <br>
-                                        Nombre 2. <br>
-                                        apellido 1. <br>
-                                        apellido 2. <br><br>
+                                        Información del cliente (Nombres y apellidos). <br>
+                                        Asesor (El asesor que está encargado de dicho cliente).<br>
+                                        Sector (Sector al que pertenece el cliente comercial/residencial).<br>
+                                        Estrato. <br>
+                                        Plazo pagó. <br>
+                                        Dirección. <br>
+                                        Barrio. <br>
+                                        Ciudad. <br>
+                                        Fax. <br>
+                                        Correo electrónico. <br>
+                                        Información de contacto (gerente, celular del gerente, contacto financiero e información de contacto).<br><br>
                                         
+                                        <img src="../../images/turno/clientes/cliente3.jpg" width="920px" alt=""/>
+                                        <img src="../../images/turno/clientes/cliente4.jpg" width="920px" alt=""/>
+                                        <img src="../../images/turno/clientes/cliente5.jpg" width="920px" alt=""/>
+                                        
+                                        Finalizamos el proceso con el botón guardar. <br><br>
+                                        
+                                        Nos llevara a la pantalla inicial donde podemos observar el cliente ya creado en el sistema. <br><br>
                                         
                                     </li>
                                 </ul>

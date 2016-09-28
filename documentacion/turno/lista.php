@@ -38,13 +38,13 @@
                     <h5><span class="dropcap"><strong>01</strong><span>02</span></span>Administracion</h5>
                     <div class="wrapper pad_bot2">
                         <ul>
-                            <li><a href="administracionCentroCosto.php" class="link1">Crear centros de costos</a></li>
-                            <li><a href="administracionCliente.php" class="link1">Crear clientes</a></li>
-                            <li><a href="administracionProspecto.php" class="link1">Crear prospectos</a></li>
-                            <li><a href="administracionRecurso.php" class="link1">Crear recursos</a></li>
-                            <li><a href="administracionTurno.php" class="link1">Crear turnos</a></li>
-                            <li><a href="administracionPlantillaTurno.php" class="link1">Crear plantillas turnos</a></li>
-                            <li><a href="administracionConceptoServicio.php" class="link1">Crear conceptos servicios</a></li>
+                            <li><a href="administracionCentroCosto.php" class="link1">Centros de costos</a></li>
+                            <li><a href="administracionCliente.php" class="link1">Clientes</a></li>
+                            <li><a href="administracionProspecto.php" class="link1">Prospectos</a></li>
+                            <li><a href="administracionRecurso.php" class="link1">Recursos</a></li>
+                            <li><a href="administracionTurno.php" class="link1">Turnos</a></li>
+                            <li><a href="administracionPlantillaTurno.php" class="link1">Plantillas turnos</a></li>
+                            <li><a href="administracionConceptoServicio.php" class="link1">Conceptos servicios</a></li>
                         </ul>
                     </div>
                 </article>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<?php $strRutaVacia = '../../../'; ?>
+<?php $strRutaVacia = '../../../../'; ?>
 <html lang="en">
     <head>
         <title>Recurso Humano</title>
@@ -23,7 +23,7 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>03</strong><span>01.05</span></span>General</h5>
+                            <h5><span class="dropcap"><strong>03</strong><span>01.05</span></span>Tipo de estudio</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li>
@@ -34,8 +34,8 @@
                                         
                                         <img src="../../../images/recurso_humano/general/general1.jpg"  alt=""/><br><br>
                                         
-                                        <a href="general/tipoCredito.php" class="link1">Tipo de crédito. </a><br>
-                                        <a href="general/tipoEstudio.php" class="link1">Tipo de estudio. </a><br>
+                                        <a href="general/" class="link1">Tipo de crédito. </a><br>
+                                        <a href="general/" class="link1">Tipo de estudio. </a><br>
                                         <a href="general/" class="link1">Tipo de examen.  </a><br>
                                         <a href="general/" class="link1">Examen por recargo. </a><br>
                                         <a href="general/" class="link1">Tipo de licencia. </a><br>
@@ -58,7 +58,7 @@
                             </div>                            
                         </div>
                 </article>
-                <a href="../lista.php" class="link1">Volver</a>
+                <a href="../administracionGeneral.php" class="link1">Volver</a>
                 <br /><br />
             </div>
         </div>
