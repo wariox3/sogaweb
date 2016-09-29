@@ -27,31 +27,24 @@
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li>
-                                        El modulo general en recursos humanos nos permite crear y modificar diversos recursos <br>
-                                        que serán usados en otros módulos del sistema. <br><br>
-                                        
-                                        Para ingresar a verificar el listado de los maestros vamos a administracion - recurso humano - general<br><br>
-                                        
+                                        Para crear un tipo de credito en la plataforma ingresamos a la siguiente ruta<br><br>
+                                        Administracion - recurso humano - general - tipo de credito <br><br>
+                                               
                                         <img src="../../../../images/recurso_humano/general/tipo_credito/tipo_credito1.jpg"  alt=""/><br><br>
                                         
-                                        <a href="general/" class="link1">Tipo de crédito. </a><br>
-                                        <a href="general/" class="link1">Tipo de estudio. </a><br>
-                                        <a href="general/" class="link1">Tipo de examen.  </a><br>
-                                        <a href="general/" class="link1">Examen por recargo. </a><br>
-                                        <a href="general/" class="link1">Tipo de licencia. </a><br>
-                                        <a href="general/" class="link1">Tipo de capacitación. </a><br>
-                                        <a href="general/" class="link1">Tipo de contratos. </a><br>
-                                        <a href="general/" class="link1">Tipo de proceso disciplinario. </a><br>
-                                        <a href="general/" class="link1">Tipo de cartas. </a><br>
-                                        <a href="general/" class="link1">Tipo de información interna del empleado. </a><br>
-                                        <a href="general/" class="link1">Tipo de conceptos de gestión de desempeño. </a><br>
-                                        <a href="general/" class="link1">Concepto de pago. </a><br>
-                                        <a href="general/" class="link1">Tipo de prueba de selección. </a><br>
-                                        <a href="general/" class="link1">Tipo de entrevista de selección. </a><br>
-                                        <a href="general/" class="link1">Tipo de permisos. </a><br>
-                                        <a href="general/" class="link1">Academia. </a><br><br>
+                                        Al ingresar a la los tipos de credito nos aparecera la siguiente ventana que nos mostrara los creditos ya creados con sus respectivas opciones <br><br>
                                         
-                                        Cada una de las opciones cuenta con sus respectivas funciones de creación, edición y verificacion detallada de los campos.
+                                        <img src="../../../../images/recurso_humano/general/tipo_credito/tipo_credito2.jpg"  alt="" width="920"/><br><br>
+                                        
+                                        Para crear un nuevo tipo de credito vamos al boton Nuevo ubicado en la parte inferior de la ventana y se nos desplegara la siguiente ventana <br><br>
+                                        
+                                        <img src="../../../../images/recurso_humano/general/tipo_credito/tipo_credito3.jpg"  alt="" width="920"/>
+                                        
+                                        Llenamos los datos que nos solicitan y finalizamos con el boton guardar.<br><br>
+                                        
+                                        En caso de que necesitemos ver que creditos hay cargados en el sistema en este tipo de credito vamos al detalle del credito y nos mostrara en la parte inferior de la pantalla los creditos cargados.<br><br>
+                                        
+                                        <img src="../../../../images/recurso_humano/general/tipo_credito/tipo_credito4.jpg"  alt="" width="920"/>
                                         
                                     </li>
                                 </ul>    

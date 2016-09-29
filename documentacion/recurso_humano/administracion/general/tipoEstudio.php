@@ -27,31 +27,19 @@
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li>
-                                        El modulo general en recursos humanos nos permite crear y modificar diversos recursos <br>
-                                        que serán usados en otros módulos del sistema. <br><br>
+                                        Para crear un tipo de permiso vamos a la siguiente ruta Administración - Recurso humano - General - Tipo de estudio. <br><br>
                                         
-                                        Para ingresar a verificar el listado de los maestros vamos a administracion - recurso humano - general<br><br>
+                                        <img src="../../../../images/recurso_humano/general/tipo_estudio/tipo_estudio1.jpg"  alt=""/><br><br>
                                         
-                                        <img src="../../../images/recurso_humano/general/general1.jpg"  alt=""/><br><br>
+                                        Al ingresar nos mostrara el listado de los tipos de estudios ya creados. <br> <br>
                                         
-                                        <a href="general/" class="link1">Tipo de crédito. </a><br>
-                                        <a href="general/" class="link1">Tipo de estudio. </a><br>
-                                        <a href="general/" class="link1">Tipo de examen.  </a><br>
-                                        <a href="general/" class="link1">Examen por recargo. </a><br>
-                                        <a href="general/" class="link1">Tipo de licencia. </a><br>
-                                        <a href="general/" class="link1">Tipo de capacitación. </a><br>
-                                        <a href="general/" class="link1">Tipo de contratos. </a><br>
-                                        <a href="general/" class="link1">Tipo de proceso disciplinario. </a><br>
-                                        <a href="general/" class="link1">Tipo de cartas. </a><br>
-                                        <a href="general/" class="link1">Tipo de información interna del empleado. </a><br>
-                                        <a href="general/" class="link1">Tipo de conceptos de gestión de desempeño. </a><br>
-                                        <a href="general/" class="link1">Concepto de pago. </a><br>
-                                        <a href="general/" class="link1">Tipo de prueba de selección. </a><br>
-                                        <a href="general/" class="link1">Tipo de entrevista de selección. </a><br>
-                                        <a href="general/" class="link1">Tipo de permisos. </a><br>
-                                        <a href="general/" class="link1">Academia. </a><br><br>
+                                        <img src="../../../../images/recurso_humano/general/tipo_estudio/tipo_estudio2.jpg"  alt="" width="920"/><br><br>
                                         
-                                        Cada una de las opciones cuenta con sus respectivas funciones de creación, edición y verificacion detallada de los campos.
+                                        Vamos a la opción nuevo ubicada en la parte inferior de la pantalla y nos mostrara la siguiente ventana <br><br>
+                                        
+                                        <img src="../../../../images/recurso_humano/general/tipo_estudio/tipo_estudio3.jpg"  alt="" width="920"/><br><br>
+
+                                        
                                         
                                     </li>
                                 </ul>    

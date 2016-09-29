@@ -27,8 +27,6 @@
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li>
-                                        El modulo general en recursos humanos nos permite crear y modificar diversos recursos <br>
-                                        que serán usados en otros módulos del sistema. <br><br>
                                         
                                         Para ingresar a verificar el listado de los maestros vamos a administracion - recurso humano - general<br><br>
                                         
@@ -48,8 +46,7 @@
                                         <a href="general/" class="link1">Concepto de pago. </a><br>
                                         <a href="general/" class="link1">Tipo de prueba de selección. </a><br>
                                         <a href="general/" class="link1">Tipo de entrevista de selección. </a><br>
-                                        <a href="general/" class="link1">Tipo de permisos. </a><br>
-                                        <a href="general/" class="link1">Academia. </a><br><br>
+                                        <a href="general/" class="link1">Tipo de permisos. </a><br><br>
                                         
                                         Cada una de las opciones cuenta con sus respectivas funciones de creación, edición y verificacion detallada de los campos.
                                         
