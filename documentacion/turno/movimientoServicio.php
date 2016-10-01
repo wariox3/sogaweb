@@ -24,9 +24,11 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>01</strong><span>01.01</span></span>Servicios</h5>
+                            <h5><span class="dropcap"><strong>01</strong><span>01.01</span></span>Servicios parte 1: Configuracion comercial</h5>
                             <div class="wrapper pad_bot2">                                
-                                <iframe width="854" height="480" src="https://www.youtube.com/embed/hDQpqitKiO8" frameborder="0" allowfullscreen></iframe>
+                                <iframe width="854" height="480" src="https://www.youtube.com/embed/PfHjzJ7r9TA" frameborder="0" allowfullscreen></iframe><br><br>
+                            <h5><span class="dropcap"><strong>01</strong><span>01.01</span></span>Servicios parte 2: Programacion de recursos</h5>
+                                <iframe width="854" height="480" src="https://www.youtube.com/embed/yX9lJKH7X00" frameborder="0" allowfullscreen></iframe>
                             </div>                            
                         </div>
                 </article>
