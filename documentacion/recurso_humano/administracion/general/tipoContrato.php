@@ -23,21 +23,29 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>03</strong><span>01.05</span></span>Tipo de estudio</h5>
+                            <h5><span class="dropcap"><strong>03</strong><span>01.05</span></span>Tipo de credito</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li>
-                                        Para crear un tipo de permiso vamos a la siguiente ruta Administración - Recurso humano - General - Tipo de estudio. <br><br>
+                                        Para crear un tipo de credito en la plataforma ingresamos a la siguiente ruta<br><br>
+                                        Administracion - recurso humano - general - tipo de credito <br><br>
+                                               
+                                        <img src="../../../../images/recurso_humano/general/tipo_credito/tipo_credito1.jpg"  alt=""/><br><br>
                                         
-                                        <img src="../../../../images/recurso_humano/general/tipo_estudio/tipo_estudio1.jpg"  alt=""/><br><br>
+                                        Al ingresar a la los tipos de credito nos aparecera la siguiente ventana que nos mostrara los creditos ya creados con sus respectivas opciones <br><br>
                                         
-                                        Al ingresar nos mostrara el listado de los tipos de estudios ya creados. <br> <br>
+                                        <img src="../../../../images/recurso_humano/general/tipo_credito/tipo_credito2.jpg"  alt="" width="920"/><br><br>
                                         
-                                        <img src="../../../../images/recurso_humano/general/tipo_estudio/tipo_estudio2.jpg"  alt="" width="920"/><br><br>
+                                        Para crear un nuevo tipo de credito vamos al boton Nuevo ubicado en la parte inferior de la ventana y se nos desplegara la siguiente ventana <br><br>
                                         
-                                        Vamos a la opción nuevo ubicada en la parte inferior de la pantalla y nos mostrara la siguiente ventana <br><br>
+                                        <img src="../../../../images/recurso_humano/general/tipo_credito/tipo_credito3.jpg"  alt="" width="920"/>
                                         
-                                        <img src="../../../../images/recurso_humano/general/tipo_estudio/tipo_estudio3.jpg"  alt="" width="920"/><br><br>    
+                                        Llenamos los datos que nos solicitan y finalizamos con el boton guardar.<br><br>
+                                        
+                                        En caso de que necesitemos ver que creditos hay cargados en el sistema en este tipo de credito vamos al detalle del credito y nos mostrara en la parte inferior de la pantalla los creditos cargados.<br><br>
+                                        
+                                        <img src="../../../../images/recurso_humano/general/tipo_credito/tipo_credito4.jpg"  alt="" width="920"/>
+                                        
                                     </li>
                                 </ul>    
                             </div>                            

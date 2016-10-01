@@ -23,21 +23,14 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>03</strong><span>01.05</span></span>Tipo de estudio</h5>
+                            <h5><span class="dropcap"><strong>03</strong><span>01.05</span></span>Tipos de conceptos de pago</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li>
-                                        Para crear un tipo de permiso vamos a la siguiente ruta Administración - Recurso humano - General - Tipo de estudio. <br><br>
-                                        
-                                        <img src="../../../../images/recurso_humano/general/tipo_estudio/tipo_estudio1.jpg"  alt=""/><br><br>
-                                        
-                                        Al ingresar nos mostrara el listado de los tipos de estudios ya creados. <br> <br>
-                                        
-                                        <img src="../../../../images/recurso_humano/general/tipo_estudio/tipo_estudio2.jpg"  alt="" width="920"/><br><br>
-                                        
-                                        Vamos a la opción nuevo ubicada en la parte inferior de la pantalla y nos mostrara la siguiente ventana <br><br>
-                                        
-                                        <img src="../../../../images/recurso_humano/general/tipo_estudio/tipo_estudio3.jpg"  alt="" width="920"/><br><br>    
+                                        <img src="../../../../images/recurso_humano/general/concepto_de_pago/concepto1.jpg"  alt=""/><br><br>
+                                        <img src="../../../../images/recurso_humano/general/concepto_de_pago/concepto2.jpg"  alt="" width="920"/><br><br>
+                                        <img src="../../../../images/recurso_humano/general/concepto_de_pago/concepto3.jpg"  alt=""/><br><br>
+                                        <img src="../../../../images/recurso_humano/general/concepto_de_pago/concepto4.jpg"  alt=""/><br><br>
                                     </li>
                                 </ul>    
                             </div>                            

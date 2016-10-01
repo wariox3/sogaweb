@@ -34,19 +34,17 @@
                                         
                                         <a href="general/tipoCredito.php" class="link1">Tipo de crédito. </a><br>
                                         <a href="general/tipoEstudio.php" class="link1">Tipo de estudio. </a><br>
-                                        <a href="general/" class="link1">Tipo de examen.  </a><br>
-                                        <a href="general/" class="link1">Examen por recargo. </a><br>
-                                        <a href="general/" class="link1">Tipo de licencia. </a><br>
-                                        <a href="general/" class="link1">Tipo de capacitación. </a><br>
-                                        <a href="general/" class="link1">Tipo de contratos. </a><br>
-                                        <a href="general/" class="link1">Tipo de proceso disciplinario. </a><br>
-                                        <a href="general/" class="link1">Tipo de cartas. </a><br>
-                                        <a href="general/" class="link1">Tipo de información interna del empleado. </a><br>
-                                        <a href="general/" class="link1">Tipo de conceptos de gestión de desempeño. </a><br>
-                                        <a href="general/" class="link1">Concepto de pago. </a><br>
-                                        <a href="general/" class="link1">Tipo de prueba de selección. </a><br>
-                                        <a href="general/" class="link1">Tipo de entrevista de selección. </a><br>
-                                        <a href="general/" class="link1">Tipo de permisos. </a><br><br>
+                                        <a href="general/tipoExamen.php" class="link1">Tipo de examen.  </a><br>
+                                        <a href="general/tipoExamenCargo.php" class="link1">Examen por cargo. </a><br>
+                                        <a href="general/tipoLicencia.php" class="link1">Tipo de licencia. </a><br>
+                                        <a href="general/tipoCapacitacion.php" class="link1">Tipo de capacitación. </a><br>
+                                        <a href="general/tipoContrato.php" class="link1">Tipo de contratos. </a><br>
+                                        <a href="general/tipoProcesoDisciplinario.php" class="link1">Tipo de proceso disciplinario. </a><br>
+                                        <a href="general/tipoCartas.php" class="link1">Tipo de cartas. </a><br>
+                                        <a href="general/tipoInformacionInterna.php" class="link1">Tipo de información interna del empleado. </a><br>
+                                        <a href="general/tipoConceptoGestion.php" class="link1">Tipo de conceptos de gestión de desempeño. </a><br>
+                                        <a href="general/tipoConceptoPago.php" class="link1">Concepto de pago. </a><br>                                       
+                                        <a href="general/tipoPermisos.php" class="link1">Tipo de permisos. </a><br><br>
                                         
                                         Cada una de las opciones cuenta con sus respectivas funciones de creación, edición y verificacion detallada de los campos.
                                         

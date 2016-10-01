@@ -23,21 +23,24 @@
             <div class="main">
                 <article id="content">
                         <div class="tab-content" id="tab1">
-                            <h5><span class="dropcap"><strong>03</strong><span>01.05</span></span>Tipo de estudio</h5>
+                            <h5><span class="dropcap"><strong>03</strong><span>01.05</span></span>Tipo de Examen</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li>
-                                        Para crear un tipo de permiso vamos a la siguiente ruta Administración - Recurso humano - General - Tipo de estudio. <br><br>
+                                        Para crear un tipo de examen vamos a la ruta Administracion - Recurso humano - General Tipo de examen. <br><br>
                                         
-                                        <img src="../../../../images/recurso_humano/general/tipo_estudio/tipo_estudio1.jpg"  alt=""/><br><br>
+                                        <img src="../../../../images/recurso_humano/general/tipo_examen/tipo_examen1.jpg"  alt=""/><br><br>
                                         
-                                        Al ingresar nos mostrara el listado de los tipos de estudios ya creados. <br> <br>
+                                        Al ingresar nos mostrara el listado de los tipos de examenes ya creados con su respectiva informacion si aplica para un ingreso y su boton de editar.<br><br>
+  
+                                        <img src="../../../../images/recurso_humano/general/tipo_examen/tipo_examen2.jpg"  alt="" width="920"/><br><br>
                                         
-                                        <img src="../../../../images/recurso_humano/general/tipo_estudio/tipo_estudio2.jpg"  alt="" width="920"/><br><br>
+                                        Para crear un nuevo registro vamos a la opcion nuevo ubicada en la parte inferior y se nos desplegara la siguiente ventana <br><br>
                                         
-                                        Vamos a la opción nuevo ubicada en la parte inferior de la pantalla y nos mostrara la siguiente ventana <br><br>
+                                        <img src="../../../../images/recurso_humano/general/tipo_examen/tipo_examen3.jpg"  alt="" width="920"/>
                                         
-                                        <img src="../../../../images/recurso_humano/general/tipo_estudio/tipo_estudio3.jpg"  alt="" width="920"/><br><br>    
+                                        Llenamos la informacion que nos solicita el formulario y finalizamos con el boton guardar.
+                                        
                                     </li>
                                 </ul>    
                             </div>                            
