@@ -25,7 +25,7 @@
                 <article id="content">
                     <h5><span class="dropcap"><strong>01</strong><span>01</span></span>Conceptos basicos</h5>
                     <div class="wrapper pad_bot2">
-                        <figure class="left marg_right1"><img src="<?php echo $strRutaVacia . 'images/recursos/calendario.jpg'; ?>" alt=""></figure>
+                        <figure class="left marg_right1"><img src="<?php echo $strRutaVacia . 'images/recursos/calendario.jpg'; ?>" alt="" width="100"></figure>
                         <p class="pad_bot1">Guia para aprender a manejar la aplicacion de turnos, con ilustraciones, videos y audio acerda del proceso; recopilando
                             en cada paso, los consejos y buenas practicas a la hora de programar turnos con base en pedidos de servicio. <br />
                             Esta guia tiene un enfoque especializado en el sector de la vigilancia con tarifas y normatividad del sector.

@@ -27,7 +27,12 @@
                             <div class="wrapper pad_bot2">
                                 <ul>
                                     <li>
+                                        Para crear un tipo de capacitacion vamos a la ruta Administracion - Recurso humano - General - tipo de capacitacion.<br><br>
+                                        
                                         <img src="../../../../images/recurso_humano/general/tipo_de_capacitacion/tipo_capacitacion1.jpg"  alt=""/><br><br>
+                                        
+                                        
+                                        
                                         <img src="../../../../images/recurso_humano/general/tipo_de_capacitacion/tipo_capacitacion2.jpg"  alt="" width="920"/><br><br>
                                         <img src="../../../../images/recurso_humano/general/tipo_de_capacitacion/tipo_capacitacion3.jpg"  alt="" width="920"/><br><br>
                                     </li>

@@ -23,6 +23,16 @@
         <div class="body3">
             <div class="main">
                 <article id="content">
+                    <h5><span class="dropcap"><strong>03</strong><span>01</span></span>¿Como inicio?</h5>
+                    <div class="wrapper pad_bot2">
+                        <figure class="left marg_right1"><img src="<?php echo $strRutaVacia . 'images/recursos/calendario.jpg'; ?>" alt="" width="100"></figure>
+                        <p class="pad_bot1">Guia para aprender a manejar la aplicacion de recurso humano, con ilustraciones, videos y audio acerda del proceso; recopilando
+                            en cada paso, los consejos y buenas practicas a la hora de realizar un proceso de requision, seleccion y contratacion exitoso.
+                        </p>
+                        <a href="cicloRecursoHumano.php" class="link1">Ver mas</a>
+                    </div>
+                </article>
+                <article id="content">
                     <h5><span class="dropcap"><strong>03</strong><span>01</span></span>Administracion</h5>
                     <div class="wrapper pad_bot2">
                         <ul>
