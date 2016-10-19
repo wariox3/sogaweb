@@ -22,10 +22,12 @@
         <div class="body3">
             <div class="main">
                 <article id="content">
-                        <h5><span class="dropcap"><strong>09</strong><span>02</span></span>Ciclo de turnos</h5>
+                        <h5><span class="dropcap"><strong>09</strong><span>02</span></span>Ciclo de recurso humano</h5>
                         <div class="wrapper pad_bot2">
                             <figure class="left marg_right1"><img src="<?php echo $strRutaVacia.'images/recursos/calendario.jpg'; ?>" alt="" width="100"></figure>
-                                <p class="pad_bot1">                              
+                            <p class="pad_bot1"> La aplicacion de recursos humanos es la aplicacion que abarca todo el proceso de seleccion y contratacion de un empleado. <br>
+                                Nos permite controlar desde las ofertas o requisiones hasta los examenes de ingreso que se solicitan.<br>
+                                Con este modulo vamos a almacenar toda la informacion de nuestros procesos de seleccion con sus respectivos parametros.
                                 </p>                                
                         </div>                        
                         <img src="<?php echo $strRutaVacia.'images/recursos/ciclo_recurso_humano.jpg'; ?>" alt="">
@@ -35,14 +37,13 @@
                         <div class="wrapper pad_bot2">                                
                                 <p class="pad_bot1">La requision es la vacante u oferta que se crear para cubrir un  puesto de trabajo especifico. <br />
                                     A traves de una requision puedo dar los detalles que requiero para cubir dicha vacante.
-                                </p> 
-                               
+                                </p>         
                         </div>                                                
                 </article> 
                 <article id="content">
                         <h3>Aspirantes</h3>
                         <div class="wrapper pad_bot2">                                
-                                <p class="pad_bot1"> En aspirantes vamos a crear las personas que participan en la requision creada anteriormente
+                                <p class="pad_bot1"> En aspirantes vamos a crear las personas que participan en la requision creada anteriormente.
                                 </p>                                
                         </div>                                                
                 </article>                 
