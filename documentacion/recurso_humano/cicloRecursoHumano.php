@@ -25,9 +25,9 @@
                         <h5><span class="dropcap"><strong>09</strong><span>02</span></span>Ciclo de recurso humano</h5>
                         <div class="wrapper pad_bot2">
                             <figure class="left marg_right1"><img src="<?php echo $strRutaVacia.'images/recursos/calendario.jpg'; ?>" alt="" width="100"></figure>
-                            <p class="pad_bot1"> La aplicacion de recursos humanos es la aplicacion que abarca todo el proceso de seleccion y contratacion de un empleado. <br>
-                                Nos permite controlar desde las ofertas o requisiones hasta los examenes de ingreso que se solicitan.<br>
-                                Con este modulo vamos a almacenar toda la informacion de nuestros procesos de seleccion con sus respectivos parametros.
+                            <p class="pad_bot1"> La aplicacion de recursos humanos abarca todo el proceso de administracion y mantenimiento de los empleados de una compañia. <br>
+                                Nos permite controlar desde las ofertas o requisiones de personal hasta la terminacion de la vinculacion laboral.<br>
+                                Con este modulo vamos a almacenar toda la informacion de los procesos.
                                 </p>                                
                         </div>                        
                         <img src="<?php echo $strRutaVacia.'images/recursos/ciclo_recurso_humano.jpg'; ?>" alt="">
@@ -35,22 +35,22 @@
                 <article id="content">
                         <h3>Requision</h3>
                         <div class="wrapper pad_bot2">                                
-                                <p class="pad_bot1">La requision es la vacante u oferta que se crear para cubrir un  puesto de trabajo especifico. <br />
-                                    A traves de una requision puedo dar los detalles que requiero para cubir dicha vacante.
+                                <p class="pad_bot1">La requision es la vacante u oferta que se crea para cubrir uno o varios puestos de trabajo especificos. <br />
+                                    A traves de una requision se controlan los procesos de seleccion y aspirantes que aplican a este proceso.
                                 </p>         
                         </div>                                                
                 </article> 
                 <article id="content">
                         <h3>Aspirantes</h3>
                         <div class="wrapper pad_bot2">                                
-                                <p class="pad_bot1"> En aspirantes vamos a crear las personas que participan en la requision creada anteriormente.
+                                <p class="pad_bot1">Los aspirantes son los registros de personas que aspiran a participar en un proceso de seleccion, puede estar o no vinculado a una requisicion.
                                 </p>                                
                         </div>                                                
                 </article>                 
                 <article id="content">
                         <h3>Seleccion</h3>
                         <div class="wrapper pad_bot2">                                
-                            <p class="pad_bot1"> El proceso de selección suele constar de dos fases diferenciadas: las pruebas y las entrevistas.<br>
+                            <p class="pad_bot1">El proceso de selección es un registro de las actividades previas a la aprobacion de una persona para ocupar un cargo.<br>
                                 A traves de esta funcionalidad vamos a poder registrar los resultados del proceso de seleccion a fin de tener un historial completo.
                                 </p>                                
                         </div>                                                
@@ -59,29 +59,24 @@
                         <h3>Examenes de ingreso</h3>
                         <div class="wrapper pad_bot2">                                
                                 <p class="pad_bot1"> 
-                                </p> A traves de esta funcionalidad se puede definir los tipos de examenes de ingreso que seran usados en el proceso de seleccion.                               
+                                </p>Esta funcionalidad registra la emision de las ordenes de examen y el almacenamiento, control y supervision de los resultados de dichos examenes.
                         </div>                                                
                 </article>
                 <article id="content">
-                        <h3>Ingreso sin requisicion</h3>
+                        <h3>Requisitos de ingreso</h3>
                         <div class="wrapper pad_bot2">                                
                                 <p class="pad_bot1"> 
-                                </p> La plataforma permite realizar ingresos de empleados sin realizar el proceso de requisicion previamente.                              
-                        </div>                                                
-                </article> 
-                <article id="content">
-                        <h3>Documentos - requisitos</h3>
-                        <div class="wrapper pad_bot2">                                
-                                <p class="pad_bot1"> 
-                                </p> En esta funcionalidad debemos conocer dos conceptos que son documentos y requisitos.<br>
+                                </p>Es el registro y control de los documentos necesarios para la vinculacion laboral.<br>
                                 Los documentos es todo lo que se entiende por papeleria que requiere un aspirante para ingresar a un puesto.<br>
-                                Los requisitos son las exigencias que solicita la entidad para la contratacion del empleado. Pueden ir desde experiencia laboral hasta restriccion de edad.
+                                Los requisitos son las exigencias que solicita la entidad para la contratacion del empleado.
                         </div>                                                
                 </article>                 
                 <article id="content">
                         <h3>Empleados</h3>
                         <div class="wrapper pad_bot2">                                
                                 <p class="pad_bot1"> 
+                                Aprobados los pasos previos, dentro de esta funcionalidad es posible crear empleados, es de anochar que la creacion 
+                                de un empleado no es la contratacion, solo el registro de la informacion de la persona.
                                 </p>
                                 <a href="../recurso_humano/administracion/administracionEmpleados.php" class="link1">Ver mas</a>
                         </div>                                                
@@ -90,6 +85,7 @@
                         <h3>Contratacion</h3>
                         <div class="wrapper pad_bot2">                                
                                 <p class="pad_bot1"> 
+                                    Se compone del registro y control del contrato del empleado, donde se especifican las condiciones laborales e informacion adicional de control.
                                 </p>
                         </div>                                                
                 </article>                

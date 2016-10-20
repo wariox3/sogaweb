@@ -92,12 +92,14 @@
                         </ul>
                     </div>
                     <h5><span class="dropcap"><strong>03</strong><span>04</span></span>Movimiento</h5>
-                    <div class="wrapper pad_bot2">
+                    <div class="wrapper pad_bot2">                        
                         <ul>
                             <li><a href="movimiento/movimientoSeleccion.php" class="link1">Seleccion</a></li>
                             <li><a href="movimiento/movimientoSeguridadSocial.php" class="link1">Seguridad Social</a></li>
                             <li><a href="movimiento/movimientoContratacion.php" class="link1">Contratacion</a></li>
                             <li><a href="movimiento/movimientoNomina.php" class="link1">Nomina</a></li>
+                            <li><a href="movimiento/movimientoNomina.php" class="link1"> - Programacion pago</a></li>
+                            <li><a href="movimiento/movimientoNomina.php" class="link1"> - Vacaciones</a></li>
                             <li><a href="movimiento/movimientoCredito.php" class="link1">Credito</a></li>
                             <li><a href="movimiento/movimientoComercial.php" class="link1">Comercial</a></li>
                             <li><a href="movimiento/movimientoDotacion.php" class="link1">Dotacion</a></li>
