@@ -47,8 +47,52 @@
                                 </p>                                
                         </div>                                                
                 </article>                 
-           
-                
+                <article id="content">
+                        <h3>Seleccion</h3>
+                        <div class="wrapper pad_bot2">                                
+                            <p class="pad_bot1"> El proceso de selección suele constar de dos fases diferenciadas: las pruebas y las entrevistas.<br>
+                                A traves de esta funcionalidad vamos a poder registrar los resultados del proceso de seleccion a fin de tener un historial completo.
+                                </p>                                
+                        </div>                                                
+                </article>                                                 
+                <article id="content">
+                        <h3>Examenes de ingreso</h3>
+                        <div class="wrapper pad_bot2">                                
+                                <p class="pad_bot1"> 
+                                </p> A traves de esta funcionalidad se puede definir los tipos de examenes de ingreso que seran usados en el proceso de seleccion.                               
+                        </div>                                                
+                </article>
+                <article id="content">
+                        <h3>Ingreso sin requisicion</h3>
+                        <div class="wrapper pad_bot2">                                
+                                <p class="pad_bot1"> 
+                                </p> La plataforma permite realizar ingresos de empleados sin realizar el proceso de requisicion previamente.                              
+                        </div>                                                
+                </article> 
+                <article id="content">
+                        <h3>Documentos - requisitos</h3>
+                        <div class="wrapper pad_bot2">                                
+                                <p class="pad_bot1"> 
+                                </p> En esta funcionalidad debemos conocer dos conceptos que son documentos y requisitos.<br>
+                                Los documentos es todo lo que se entiende por papeleria que requiere un aspirante para ingresar a un puesto.<br>
+                                Los requisitos son las exigencias que solicita la entidad para la contratacion del empleado. Pueden ir desde experiencia laboral hasta restriccion de edad.
+                        </div>                                                
+                </article>                 
+                <article id="content">
+                        <h3>Empleados</h3>
+                        <div class="wrapper pad_bot2">                                
+                                <p class="pad_bot1"> 
+                                </p>
+                                <a href="../recurso_humano/administracion/administracionEmpleados.php" class="link1">Ver mas</a>
+                        </div>                                                
+                </article>  
+                <article id="content">
+                        <h3>Contratacion</h3>
+                        <div class="wrapper pad_bot2">                                
+                                <p class="pad_bot1"> 
+                                </p>
+                        </div>                                                
+                </article>                
                 <a href="../recurso_humano/lista.php" class="link1">Volver</a>
                 <br /><br />
             </div>
