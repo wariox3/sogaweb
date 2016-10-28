@@ -39,26 +39,34 @@
                                         
                                         <img src="../../../../images/recurso_humano/adicionalPago/permanente1.jpg"  alt="" width="920"/> <br><br>
                                         
-                                        Al seleccionar la opcion bonificacion se nos desplegara la siguiente ventana. <br><br>
+                                        Al seleccionar la opcion Nueva bonificacion se nos desplegara la siguiente ventana. <br><br>
                                         
                                         <img src="../../../../images/recurso_humano/adicionalPago/permanente2.jpg"  alt="" width="920"/> <br><br>
                                                                                
-                                        
+                                        El primer paso es realizar la busqueda del empelado al que le vamos a generar una adicion al pago, vamos a la opcion buscar y se nos desplegara la siguiente ventana. <br><br><br>
                                         
                                         <img src="../../../../images/recurso_humano/adicionalPago/permanente3.jpg"  alt="" /> <br><br>
                                        
+                                        Seleccionamos el empleado al que cual le aplicaremos el adicional pago y nos regresara a la ventana anterior para continuar el proceso.<br><br>
                                         
+                                        Finalizamos el proceso seleccionando el tipo de bonificacion, el valor de la bonificacion y si aplica a dia laborado. Adiccional se puede agregar un detalle a la bonificacion. <br><br>
+                                        
+                                        Para agregar una deduccion permanente usamos la opcion Nuevo descuento y se nos desplegara una ventana similar a la de bonificaciones. <br><br>
+
+                                        Seleccionamos el empleado, el tipo de descuento, el valor del descuento y si aplica a dias laborados la deduccion.<br><br>
                                         
                                         <img src="../../../../images/recurso_humano/adicionalPago/permanente4.jpg"  alt="" width="920"/> <br><br>
                                         
+                                        La otra opcion que tenemos es adicional pagos por fecha los cuales se aplicaran a una programacion de pago especifica. <br><br>
                                         
+                                        Vamos a la opcion Nuevo para crear el periodo de pago a cual aplicaremos las adiciones o deducciones del pago. <br><br>
                                         
                                         <img src="../../../../images/recurso_humano/adicionalPago/adicional_fecha1.jpg"  alt="" width="920"/>
                                         
-                                        
+                                        Al ingresar al periodo de pago observamos que la interfaz es igual a los permanentes y debemos de realizar los mismos procedimientos descitos anteriormente <br><br>
                                         
                                         <img src="../../../../images/recurso_humano/adicionalPago/adicional_fecha2.jpg"  alt="" width="920"/>
-                                        
+                          
                                     </li>
                                 </ul>    
                             </div>                            
