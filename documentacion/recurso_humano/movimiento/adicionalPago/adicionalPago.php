@@ -29,19 +29,33 @@
                                     <li> 
                                         
                                         Los pagos adicionales son aquellas bonificaciones o deducciones que se pueden aplicar al pago de nomina de un empleado de forma permanente o en un periodo de pago especifico.<br><br>
-                                        Para ingresar a los pagos permanentes vamos a la ruta Movimientos - Recurso humano - Nomina - (Seleccionar pago permanente o pago por fecha).<br><br>
+                                        Para ingresar a los pagos permanentes vamos a la ruta Movimientos - Recurso humano - Nomina - (Seleccionar pago permanente o pago por fecha).<br><br><br>
                                         
-                                        <img src="../../../../images/recurso_humano/adicionalPago/adicional1.jpg"  alt="" width="920"/> <br><br>
+                                        <img src="../../../../images/recurso_humano/adicionalPago/adicional1.jpg"  alt="" width="920"/> <br><br><br>
+                                        
+                                        Iniciaremos por los pagos adiconales permantentes, como su nombre lo indica estos pagos se aplicaran en cada programacion de pago. <br><br>
+                                        
+                                        Cuando seleccionamos Adicional al pago permanente se nos desplegara la siguiente ventana. <br><br><br>
                                         
                                         <img src="../../../../images/recurso_humano/adicionalPago/permanente1.jpg"  alt="" width="920"/> <br><br>
                                         
+                                        Al seleccionar la opcion bonificacion se nos desplegara la siguiente ventana. <br><br>
+                                        
                                         <img src="../../../../images/recurso_humano/adicionalPago/permanente2.jpg"  alt="" width="920"/> <br><br>
                                                                                
+                                        
+                                        
                                         <img src="../../../../images/recurso_humano/adicionalPago/permanente3.jpg"  alt="" /> <br><br>
                                        
+                                        
+                                        
                                         <img src="../../../../images/recurso_humano/adicionalPago/permanente4.jpg"  alt="" width="920"/> <br><br>
                                         
+                                        
+                                        
                                         <img src="../../../../images/recurso_humano/adicionalPago/adicional_fecha1.jpg"  alt="" width="920"/>
+                                        
+                                        
                                         
                                         <img src="../../../../images/recurso_humano/adicionalPago/adicional_fecha2.jpg"  alt="" width="920"/>
                                         
