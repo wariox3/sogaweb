@@ -100,6 +100,7 @@
                             <li><a href="movimiento/movimientoNomina.php" class="link1">Nomina</a></li>
                             <li><a href="movimiento/vacaciones/vacaciones.php" class="link1"> - Vacaciones</a></li>
                             <li><a href="movimiento/adicionalPago/adicionalPago.php" class="link1"> - Adicionales al pago</a></li>
+                            <li><a href="movimiento/liquidacion/liquidacion.php" class="link1"> - Liquidaciones</a></li>
                             <li><a href="movimiento/movimientoCredito.php" class="link1">Credito</a></li>
                             <li><a href="movimiento/movimientoComercial.php" class="link1">Comercial</a></li>
                             <li><a href="movimiento/movimientoDotacion.php" class="link1">Dotacion</a></li>
