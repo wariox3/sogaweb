@@ -53,6 +53,21 @@
                                         
                                         <img src="../../../../images/recurso_humano/vacaciones/vacaciones4.jpg"  alt="" width="920"/> <br><br>
                                         
+                                        En importante señalar que nos se nos mostrara 4 fechas que corresponden a lo siguiente: <br><br>
+                                        
+                                        P.DESDE Y P.HASTA (corresponde a los dias que se le pagaron por concepto de vacaciones).<br>
+                                        D.DESDE Y D.HASTA (corresponde a la fecha en que se asignaron los dias de disfrute de la vacacion).<br><br>
+                                        
+                                        Luego vamos a la opcion de detalles del registro ubicado en la parte de derecha de cada registro de vacacion y nos llevara a la siguiente ventana que nos permite realizar la liquidacion de la nomina y la impresion del comprobante<br><br>
+                                        
+                                        <img src="../../../../images/recurso_humano/vacaciones/vacaciones6.jpg"  alt="" width="920"/> <br><br>
+                                        <img src="../../../../images/recurso_humano/vacaciones/vacaciones7.jpg"  alt="" width="920"/> <br><br>
+                                        
+                                        Solo damos click en la opcion de liquidar y observamos que el valor a pagar se ajusta al salario promedio propuesto ( en caso de que se ingresara). <br>
+                                        Luego usamos la opcion autorizar y luego imprimir <br><br>
+                                        
+                                        <img src="../../../../images/recurso_humano/vacaciones/vacaciones8.jpg"  alt="" /> <br><br>
+                                        
                                         
                                         
                                     </li>

@@ -26,7 +26,7 @@
                             <h5><span class="dropcap"><strong>03</strong><span>01.01</span></span>Liquidacion</h5>
                             <div class="wrapper pad_bot2">
                                 <ul>
-                                    <li> 
+                                    <li> Las liquidaciones se pueden observar a atraves de la siguiente ruta Movimientos - Recurso humano - <br><br>
                                         <img src="../../../../images/recurso_humano/liquidacion/liquidacion1.jpg"  alt="" width="920"/><br><br>
                                         <img src="../../../../images/recurso_humano/liquidacion/liquidacion2.jpg"  alt="" width="920"/><br><br>
                                         <img src="../../../../images/recurso_humano/liquidacion/liquidacion3.jpg"  alt="" width="920"/><br><br>
