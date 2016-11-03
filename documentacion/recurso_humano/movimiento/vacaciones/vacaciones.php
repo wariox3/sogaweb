@@ -67,9 +67,6 @@
                                         Luego usamos la opcion autorizar y luego imprimir <br><br>
                                         
                                         <img src="../../../../images/recurso_humano/vacaciones/vacaciones8.jpg"  alt="" /> <br><br>
-                                        
-                                        
-                                        
                                     </li>
                                 </ul>    
                             </div>                            
