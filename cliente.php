@@ -45,28 +45,28 @@
                                                     <figure class="left marg_right1"><img src="images/logos/logodorchester.jpg" width="100" height="100" alt=""></figure>
 							<p class="pad_bot1">Cliente estrategico en el sector de la seguridad privada
                                                         </p>
-							<a href="http://181.143.57.93/dorchester/web/app.php" class="link1">Acesso</a>
+							<a href="http://181.143.57.92/dorchester/web/app.php" class="link1">Acesso</a>
 						</div>
                                                 <h5><span class="dropcap"><strong>1</strong><span>04</span></span>Galaxia seguridad</h5>
 						<div class="wrapper pad_bot2">
                                                     <figure class="left marg_right1"><img src="images/logos/logogalaxia.png" width="100" height="100" alt=""></figure>
 							<p class="pad_bot1">Cliente estrategico en el sector de la seguridad privada
                                                         </p>
-							<a href="http://181.143.57.93/galaxia/web/app.php" class="link1">Acesso</a>
+							<a href="http://181.143.57.92/galaxia/web/app.php" class="link1">Acesso</a>
 						</div>
                                                 <h5><span class="dropcap"><strong>1</strong><span>05</span></span>Seguridad Estelar</h5>
 						<div class="wrapper pad_bot2">
                                                     <figure class="left marg_right1"><img src="images/logos/logoestelar.jpg" width="100" height="80" alt=""></figure>
 							<p class="pad_bot1">Cliente estrategico en el sector de la seguridad privada
                                                         </p>
-							<a href="http://181.143.57.93/estelar/web/app.php" class="link1">Acesso</a>
+							<a href="http://181.143.57.92/estelar/web/app.php" class="link1">Acesso</a>
 						</div>
                                                  <h5><span class="dropcap"><strong>1</strong><span>06</span></span>Seguridad Eurovic de colombia</h5>
 						<div class="wrapper pad_bot2">
                                                     <figure class="left marg_right1"><img src="images/logos/logoeuro.jpg" width="120" height="50" alt=""></figure>
 							<p class="pad_bot1">Cliente estrategico en el sector de la seguridad privada
                                                         </p>
-							<a href="http://181.143.57.93/eurovic/web/app.php" class="link1">Acesso</a>
+							<a href="http://181.143.57.92/eurovic/web/app.php" class="link1">Acesso</a>
                                                 </div><br>                                
 					</div>
 					<ul class="nav">
