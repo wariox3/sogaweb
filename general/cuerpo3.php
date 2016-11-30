@@ -1,7 +1,4 @@
-<html>
-    <head>
-        <link rel="stylesheet" href="../css/style.css" type="text/css" media="all" />
-    </head>            
+          
         <div class="main">               
             <!-- content -->
             <article id="content">
