@@ -98,6 +98,7 @@
                             <li><a href="movimiento/movimientoSeguridadSocial.php" class="link1">Seguridad Social</a></li>
                             <li><a href="movimiento/movimientoContratacion.php" class="link1">Contratacion</a></li>
                             <li><a href="movimiento/movimientoNomina.php" class="link1">Nomina</a></li>
+                            <li><a href="movimiento/programacionPago/programacionPago.php" class="link1"> - Programacion pago</a></li>
                             <li><a href="movimiento/vacaciones/vacaciones.php" class="link1"> - Vacaciones</a></li>
                             <li><a href="movimiento/adicionalPago/adicionalPago.php" class="link1"> - Adicionales al pago</a></li>
                             <li><a href="movimiento/liquidacion/liquidacion.php" class="link1"> - Liquidaciones</a></li>
